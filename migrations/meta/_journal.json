@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1699766438150,
+      "tag": "0000_sparkling_colossus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1699766992997,
+      "tag": "0001_careful_sway",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1699790141586,
+      "tag": "0002_peaceful_hobgoblin",
+      "breakpoints": true
+    }
+  ]
+}
